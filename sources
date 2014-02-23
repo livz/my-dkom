@@ -1,0 +1,8 @@
+TARGETNAME = TestDriver
+TARGETPATH = obj
+TARGETTYPE = DRIVER
+
+
+SOURCES    = 	main.c \
+		MJDeviceControl.c \
+		MJCreate.c
